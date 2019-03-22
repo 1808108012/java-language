@@ -1,2 +1,6 @@
-# java-language
-Programming in Java Language
+# 课程名称（中文）：Java语言程序设计
+# （英文）：Programming in Java Language
+
+## 课程性质：专业任选课
+## 总学时（包括学时分配）：32（理论学时：32 ）
+## 适用专业：信息与计算科学专业
